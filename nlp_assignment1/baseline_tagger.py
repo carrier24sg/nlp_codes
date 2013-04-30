@@ -1,5 +1,6 @@
 import traceback
 import pdb
+""" answer to the programming assignment 1 from coursera nlp class from Columbia University """
 def replace_counts(input_filename, op_filename):
     f = open(input_filename, 'rb')
     f2 = open(op_filename, 'w')
